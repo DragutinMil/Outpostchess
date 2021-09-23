@@ -2,4 +2,3 @@
 Chess player app
 
 
-yarn serve
